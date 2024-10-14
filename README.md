@@ -7,7 +7,7 @@ Project Start: September 2024
 Project Finished: 
 
 Collaborators: 
-Stein Erik Skotkjerra
+Stein Erik Skotkjerra,
 Anne Thyme Nørregaard
 
 ---
