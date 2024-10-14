@@ -4,7 +4,7 @@
 ### Project Log 
 
 Project Start: September 2024
-Project Finished: 
+
 
 Collaborators: 
 Stein Erik Skotkjerra,
