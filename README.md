@@ -1,6 +1,6 @@
 # Web Accessibility Assessment of Tools for Mobile Ethnography Workshop - The Urban Belonging Photo App
 
-![Logo]()
+![Logo](UBmindmap.png)
 
 
 ### Introduction to the App
