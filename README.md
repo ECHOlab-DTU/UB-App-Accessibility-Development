@@ -1,4 +1,4 @@
-# UB-App-Accessibility-Development
+# Web Accessibility Assessment of Tools for Mobile Ethnography - The Urban Belonging Photo App
 
 ---
 ### Project Log 
