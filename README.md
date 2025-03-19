@@ -1,24 +1,11 @@
-# Web Accessibility Assessment of Tools for Mobile Ethnography - The Urban Belonging Photo App
+# Web Accessibility Assessment of Tools for Mobile Ethnography Workshop - The Urban Belonging Photo App
 
----
-### Project Log 
-
-Project Start: September 2024
+![Logo]()
 
 
-Collaborators: 
-Stein Erik Skotkjerra,
-Anne Thyme Nørregaard
+### Introduction to the App
 
----
-### Workshop 1: Division Strategy Day 
-01.10.2024
+[Download PDF Guide]()
 
----
-### Workshop 2: Accessibility Assessment with Stein Erik
-28.10.2024
-
----
-### Workshop 2: Accessibility Assessment with Stein Erik
-01.11.2024
+### Steps in the assessment workshop
 
