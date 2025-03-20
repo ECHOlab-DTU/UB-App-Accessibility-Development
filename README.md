@@ -35,6 +35,9 @@ Over a research period of three months, users created over 1400 photos and 200 p
 We begin with a presentation about web accessibility. 
 You can read about guidelines for web accessibility [here](https://www.w3.org/WAI/fundamentals/accessibility-intro/)
 
+![image](images/presentation.png)
+
+
 ---
 
 ### Step 2: How to assess an app for digital accessibility
@@ -58,6 +61,8 @@ Annotations were written on post-it's with reference to the respective feature i
 We collected all annotations on the whiteboard and distributed them according to the type of accessibility barrier identified.
 We end up with several categories: visual contrast, semantic accessibility elements, onboarding-flow to the app, keyboard navigation, alternative text for images, 
 availability of multimodal information, fontsize and readability.
+
+![image](images/annotation.png)
 
 ----
 
