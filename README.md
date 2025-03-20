@@ -35,7 +35,7 @@ Over a research period of three months, users created over 1400 photos and 200 p
 We begin with a presentation about web accessibility. 
 You can read about guidelines for web accessibility [here](https://www.w3.org/WAI/fundamentals/accessibility-intro/)
 
-![image](images/presentation.png)
+![image](images/presentation.png)<img src="images/presentation.png" width="200" height="100">
 
 
 ---
