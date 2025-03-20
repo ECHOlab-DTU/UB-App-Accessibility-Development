@@ -3,7 +3,7 @@
 ![Logo](images/UBTHUMBNAIL.png)
 
 
-In this ECHO Lab project, we worked together with the team behind the Urban Belonging Project, the developer of the Urban Belonging Photo App, Iain Kettles, and the digital accessibility consulants Anne Thyme and Stein Erik Skotsterra from [UseIt](https://useit-consulting.dk) 
+In this ECHO Lab project, we worked together with the team behind the [Urban Belonging Project](https://urbanbelonging.com), the developer of the Urban Belonging Photo App, Iain Kettles, and the digital accessibility consulants Anne Thyme and Stein Erik Skotsterra from [UseIt](https://useit-consulting.dk) 
 
 During the process of the web accessibility assessment with the development team, we invited colleagues from the research group at the division, to partake in a workshop that uses the UB App as a case, but also addresses web accessibility and the importance thereof when using and working on digital tools.
 In a one-day workshop we went through the digital accessibility assessment of the app. 
