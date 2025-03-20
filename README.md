@@ -1,6 +1,6 @@
 ### Web Accessibility Assessment of Tools for Mobile Ethnography Workshop - The Urban Belonging Photo App
 
-![Logo](images/UBTHUMBNAIL.png)
+![Logo](images/thumbnail.png)
 
 
 In this ECHO Lab project, we worked together with the team behind the [Urban Belonging Project](https://urbanbelonging.com), the developer of the Urban Belonging Photo App, Iain Kettles, and the digital accessibility consulants Anne Thyme and Stein Erik Skotsterra from [UseIt](https://useit-consulting.dk) 
