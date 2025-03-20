@@ -62,7 +62,7 @@ We collected all annotations on the whiteboard and distributed them according to
 We end up with several categories: visual contrast, semantic accessibility elements, onboarding-flow to the app, keyboard navigation, alternative text for images, 
 availability of multimodal information, fontsize and readability.
 
-![image](images/annotation.HEIC)
+<img src="images/annotation.HEIC" width="600" height="400">
 
 ----
 
